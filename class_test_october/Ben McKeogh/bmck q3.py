@@ -1,0 +1,5 @@
+number = input("type a number")
+number = float(number)
+number2 = input("type a 2nd number")
+number2 = float(number2)
+print (number2, number)
