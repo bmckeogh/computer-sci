@@ -1,0 +1,13 @@
+Question 1 - great
+
+Question 2 - great
+
+Question 3 - You need to learn this off. Please look at the file Operators in Python - Housekeeping.pdf. It's very important to know this.
+
+Question 4 - great
+
+Question 5 - great
+
+Question 6 - very good work, but make sure you can code up the final option
+
+Question 7 - Can you try and do this one
